@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Usman Mughal</h1>
-<h3 align="center">A Mern Stack Developer From Pakistan</h3>
+<h3 align="center">Software Engineer From Pakistan</h3>
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithusman0" alt="codewithusman0" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **JavaScript, Gsap**
+- 💬 Ask me about **JavaScript, Python**
 
 - 📫 How to reach me **lxshani63@gmail.com**
 
