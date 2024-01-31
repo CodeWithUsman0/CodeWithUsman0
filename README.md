@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman Mughal</h1>
-<h3 align="center">Software Engineer From Pakistan</h3>
+<h3 align="center">Full Stack From Pakistan</h3>
 <img align="right" alt="Coding" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
